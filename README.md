@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kerlynn
 - 👀 I’m a Ruby on Rails Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🏫 I'm a self taught software developer with an Mechanical Engineering Degree
+- 🌱 I’m currently learning Elixir
+- 💞️ I’m looking to collaborate on cool projects
 
 <!---
 kerlynn/kerlynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
