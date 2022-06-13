@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kerlynn
-- 🏫 I'm a self taught Ruby on Rails Developer with an Mechanical Engineering Degree
+- 👋 Hi, I’m @kerlynn 🇲🇾
+- 🏫 I'm a self taught Ruby on Rails Developer with an Mechanical Engineering Degree 🇹🇼🇰🇷
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on cool projects
 
